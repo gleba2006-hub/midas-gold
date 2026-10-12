@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "מידאס | תכשיטי שוקולד",
+      "hasCanvas": false,
+      "bodyTextLen": 1258,
+      "bodyTextHash": "db70c1f731699d2a953f0d4c0dc8bbf18aac31901fc35cb8400e9969781462aa",
+      "bodyTextPrefix": "יצירה בעבודת יד · אריזה כמו תכשיט MIDAS GOLD וואטסאפ תפריט The G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "מידאס | תכשיטי שוקולד",
+      "hasCanvas": false,
+      "bodyTextLen": 1224,
+      "bodyTextHash": "0c3fb55c114142dfcc3a9315a30272343e6072031b1557e349c53cba2074f525",
+      "bodyTextPrefix": "MIDAS GOLD וואטסאפ תפריט The Gold Collection MIDAS תכשיטי שוקולד",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
